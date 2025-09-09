@@ -1,4 +1,4 @@
-<h1 align="center">💻👩‍💻 Hey, ben Kübraa 🚀</h1>
+<h1 align="center">💻👩‍💻 Hey, ben Büşra 🚀</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300px">
@@ -57,10 +57,10 @@
 
 | 📌 Proje | Açıklama | Teknolojiler |
 |----------|---------|--------------|
-| 🔹 [CyberStart Ödevleri](https://github.com/bushranovaaa/CyberStart-Odevler) | Siber güvenlik görevleri ve Python çözümleri | Python, CyberSecurity |
-| 🔹 [Dijital Güvenlik Uygulaması](https://github.com/bushranovaaa/dijital_guvenlik_app) | Kullanıcıların dijital kimliklerini ve güvenliğini korumak için mobil uygulama | Flutter, Dart, Firebase |
-| 🔹 [Fibonacci Algoritması](https://github.com/bushranovaaa/Fibonacci-dizisi) | Java ile Fibonacci dizisini hesaplayan algoritma | Java, Algoritmalar |
-| 🔹 [EmpowerHER Projesi](https://github.com/bushranovaaa/) | Kadınlara ilham veren bir eğitim ve destek platformu | Flutter, Firebase, AI |
+| 🔹 [CyberStart Ödevleri](https://github.com/busrakubra-dev/CyberStart-Odevler) | Siber güvenlik görevleri ve Python çözümleri | Python, CyberSecurity |
+| 🔹 [Dijital Güvenlik Uygulaması](https://github.com/busrakubra-dev/dijital_guvenlik_app) | Kullanıcıların dijital kimliklerini ve güvenliğini korumak için mobil uygulama | Flutter, Dart, Firebase |
+| 🔹 [Fibonacci Algoritması](https://github.com/busrakubra-dev/Fibonacci-dizisi) | Java ile Fibonacci dizisini hesaplayan algoritma | Java, Algoritmalar |
+| 🔹 [EmpowerHER Projesi](https://github.com/busrakubra-dev/) | Kadınlara ilham veren bir eğitim ve destek platformu | Flutter, Firebase, AI |
 
 ---
 
@@ -75,8 +75,8 @@
 <h2 align="center">📊 GitHub İstatistiklerim</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bushranovaaa&show_icons=true&theme=radical" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bushranovaaa&layout=compact&theme=radical" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=busrakubra-dev&show_icons=true&theme=radical" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=busrakubra-dev&layout=compact&theme=radical" width="400px">
 </p>
 
 ---
@@ -84,10 +84,10 @@
 <h2 align="center">🌐 Beni Takip Et</h2>
 
 <div align="center">
-  <a href="https://github.com/bushranovaaa">
+  <a href="https://github.com/busrakubra-dev">
     <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub">
   </a>  
-  <a href="https://www.linkedin.com/in/bushranovaaa">
+  <a href="https://www.linkedin.com/in/busrakubra-dev">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn">
   </a>  
   <a href="mailto:kurtbusra956@gmail.com">
