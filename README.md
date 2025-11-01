@@ -10,7 +10,7 @@
 
 📍 Türkiye'den *tutkulu bir yazılımcı ve siber güvenlik aşığıyım!*  
 💻 *Mobil geliştirme, güvenlik ve açık kaynak projeleriyle ilgileniyorum.*  
-🔍 *Flutter, Java, Python, SQL ve Siber Güvenlik öğreniyorum!*  
+🔍 *Flutter, Python, SQL ve Siber Güvenlik öğreniyorum!*  
 🎯 *Hedefim:* Kullanıcıların hayatını kolaylaştıran, güçlü ve güvenli yazılımlar geliştirmek.  
 ✨ *Mottom:* **"Kodla, koru, değiştir!"**
 
@@ -27,10 +27,7 @@
   </a>  
   <a href="https://dart.dev/">
     <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart">
-  </a>  
-  <a href="https://www.java.com/">
-    <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java">
-  </a>  
+  </a>   
   <a href="https://www.mysql.com/">
     <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL">
   </a>  
