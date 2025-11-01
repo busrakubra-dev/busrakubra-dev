@@ -27,10 +27,7 @@
   </a>  
   <a href="https://dart.dev/">
     <img src="https://skillicons.dev/icons?i=dart&theme=dark" alt="Dart">
-  </a>   
-  <a href="https://www.mysql.com/">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL">
-  </a>  
+  </a>     
   <a href="https://www.postgresql.org/">
     <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL">
   </a>  
